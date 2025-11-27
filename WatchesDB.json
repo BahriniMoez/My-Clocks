@@ -1,0 +1,76 @@
+{
+  "watches": [
+    {
+      "id": 1,
+      "brand": "Rolex",
+      "name": "Submariner",
+      "model": "Datejust",
+      "price": "$15,000",
+      "movement": "Automatic",
+      "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 2,
+      "brand": "Patek Philippe",
+      "name": "Nautilus",
+      "model": "Huxton",
+      "price": "$130,000",
+      "movement": "Automatic",
+      "image": "https://images.unsplash.com/photo-1547996160-81dfd9c9a0fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 3,
+      "brand": "Audemars Piguet",
+      "name": "Royal Oak",
+      "model": "Automatic",
+      "price": "$65,000",
+      "movement": "Automatic",
+      "image": "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 4,
+      "brand": "Omega",
+      "name": "Seamaster",
+      "model": "Professional",
+      "price": "$7,500",
+      "movement": "Automatic",
+      "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 5,
+      "brand": "Jaeger-LeCoultre",
+      "name": "Reverso",
+      "model": "Classic",
+      "price": "$15,000",
+      "movement": "Manual",
+      "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 6,
+      "brand": "TAG Heuer",
+      "name": "Carrera",
+      "model": "Chronograph",
+      "price": "$6,400",
+      "movement": "Quartz",
+      "image": "https://images.unsplash.com/photo-1609587243327-5297730ddfb6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 7,
+      "brand": "Breitling",
+      "name": "Navitimer",
+      "model": "Automatic",
+      "price": "$8,600",
+      "movement": "Automatic",
+      "image": "https://images.unsplash.com/photo-1622434641406-a158123450f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 8,
+      "brand": "Rolex",
+      "name": "Daytona",
+      "model": "Cosmograph",
+      "price": "$28,500",
+      "movement": "Automatic",
+      "image": "https://images.unsplash.com/photo-1526045431048-f857369baa09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    }
+  ]
+}
