@@ -7,7 +7,7 @@
       "model": "Datejust",
       "price": "$15,000",
       "movement": "Automatic",
-      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/clock1.png?raw=true"
+      "image": "https://raw.githubusercontent.com/BahriniMoez/My-Clocks/main/images/clock1.png"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "model": "Huxton",
       "price": "$130,000",
       "movement": "Automatic",
-      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/clock2.png?raw=true"
+      "image": "https://raw.githubusercontent.com/BahriniMoez/My-Clocks/main/images/clock2.png"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "model": "Automatic",
       "price": "$65,000",
       "movement": "Automatic",
-      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/clock3.png?raw=true"
+      "image": "https://raw.githubusercontent.com/BahriniMoez/My-Clocks/main/images/clock3.png"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "model": "Professional",
       "price": "$7,500",
       "movement": "Automatic",
-      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/clock4.png?raw=true"
+      "image": "https://raw.githubusercontent.com/BahriniMoez/My-Clocks/main/images/clock4.png"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "model": "Classic",
       "price": "$15,000",
       "movement": "Manual",
-      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/clock5.png?raw=true"
+      "image": "https://raw.githubusercontent.com/BahriniMoez/My-Clocks/main/images/clock5.png"
     },
     {
       "id": 6,
@@ -52,8 +52,8 @@
       "model": "Chronograph",
       "price": "$6,400",
       "movement": "Quartz",
-      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/clock6.png?raw=true"
-    }
+      "image": "https://raw.githubusercontent.com/BahriniMoez/My-Clocks/main/images/clock6.png"
+    },
     {
       "id": 7,
       "brand": "Breitling",
@@ -61,7 +61,7 @@
       "model": "Automatic",
       "price": "$8,600",
       "movement": "Automatic",
-      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/clock7.png?raw=true"
+      "image": "https://raw.githubusercontent.com/BahriniMoez/My-Clocks/main/images/clock7.png"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "model": "Cosmograph",
       "price": "$28,500",
       "movement": "Automatic",
-      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/unnamed.png?raw=true"
+      "image": "https://raw.githubusercontent.com/BahriniMoez/My-Clocks/main/images/unnamed.png"
     }
   ]
 }
