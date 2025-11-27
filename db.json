@@ -16,7 +16,7 @@
       "model": "Huxton",
       "price": "$130,000",
       "movement": "Automatic",
-      "image": "https://images.unsplash.com/photo-1547996160-81dfd9c9a0fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/clock2.png?raw=true"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "model": "Automatic",
       "price": "$65,000",
       "movement": "Automatic",
-      "image": "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/clock3.png?raw=true"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "model": "Professional",
       "price": "$7,500",
       "movement": "Automatic",
-      "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/clock4.png?raw=true"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "model": "Classic",
       "price": "$15,000",
       "movement": "Manual",
-      "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/clock5.png?raw=true"
     },
     {
       "id": 6,
@@ -52,8 +52,8 @@
       "model": "Chronograph",
       "price": "$6,400",
       "movement": "Quartz",
-      "image": "https://images.unsplash.com/photo-1609587243327-5297730ddfb6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
-    },
+      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/clock6.png?raw=true"
+    }
     {
       "id": 7,
       "brand": "Breitling",
@@ -61,7 +61,7 @@
       "model": "Automatic",
       "price": "$8,600",
       "movement": "Automatic",
-      "image": "https://images.unsplash.com/photo-1622434641406-a158123450f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/clock7.png?raw=true"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "model": "Cosmograph",
       "price": "$28,500",
       "movement": "Automatic",
-      "image": "https://images.unsplash.com/photo-1526045431048-f857369baa09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+      "image": "https://github.com/BahriniMoez/My-Clocks/blob/main/images/unnamed.png?raw=true"
     }
   ]
 }
